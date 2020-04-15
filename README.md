@@ -8,5 +8,5 @@ It's also a working Node.js environment utilizing Gulp 4, Browsersync, Bootstrap
 
 1. Clone this repo
 2. yarn or npm install to install the required dependencies
-3. gulp to kickoff the dev server, and open your browser window.
-4. Edit html files in /public, and sass files in /src/sass or any js files in /src/js. Browser-sync will reload after any changes.
+3. gulp to kickoff the dev server, it will open your browser window with the project running.
+4. Edit html files in /public or any sass or js files in /src. Browser-sync will reload after any changes.
